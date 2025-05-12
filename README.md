@@ -1,5 +1,7 @@
 ## 🗺️ tl2gpx
 
+**Convert your Android-exported Google Timeline JSON into daily GPX tracks.**
+
 Convert a Google Timeline JSON file (exported from Android) into **daily GPX track files**.
 Each `.gpx` file represents a day of location history with standard GPS `<trk>` data, compatible with tools like **Kashmir 3D**, **Garmin BaseCamp**, or **QGIS**.
 
